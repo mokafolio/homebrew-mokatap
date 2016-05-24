@@ -3,7 +3,7 @@ class Paper < Formula
   homepage ""
   url "https://github.com/mokafolio/Paper/archive/0.0.2.tar.gz"
   version "0.0.2"
-  sha256 ""
+  sha256 "095dbae3d282e2b7740afd246ebb163b8177e3d7066af2491ed2fdb08597dff1"
 
   depends_on "cmake" => :build
   depends_on "brick"
