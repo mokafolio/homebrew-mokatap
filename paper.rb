@@ -9,7 +9,6 @@ class Paper < Formula
   depends_on "brick"
   depends_on "scrubpp"
   depends_on "crunchpp"
-  depends_on "glfw3"
   def install
     system "cmake", ".", *std_cmake_args
     system "make", "install"
