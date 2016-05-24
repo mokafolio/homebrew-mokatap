@@ -3,7 +3,7 @@ class Stick < Formula
   homepage ""
   url "https://github.com/mokafolio/Stick/archive/0.0.1.tar.gz"
   version "0.0.1"
-  sha256 "4594b01035d86bd01bfccfd5c1d662981307531da32b54be38323eae6557beed"
+  sha256 "dff705747ce8e9bd26f688772aa1d8d407c6173d010e8e2b6e0c56392401fb94"
 
   depends_on "cmake" => :build
 
